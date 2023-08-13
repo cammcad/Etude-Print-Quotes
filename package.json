@@ -1,0 +1,19 @@
+{
+  "name": "etude-print-quotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crocks": "^0.12.4",
+    "ramda": "^0.29.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.1"
+  }
+}
