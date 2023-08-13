@@ -1,7 +1,7 @@
 import IO from "crocks/IO/index.js"
 import * as readline from "node:readline/promises"
 import { stdin as input, stdout as output } from "node:process"
-import { identity } from 'ramda'
+import { identity } from "ramda"
 
 const prompt = (question) =>
   IO(() => {
